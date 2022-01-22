@@ -22,10 +22,10 @@ other: tools to evaluate the preformance of the method.
     you can download dataset from pan.baidu.com  
     	link: [https://pan.baidu.com/s/1Jc5i2_dAB7DSLmq7Fcu7pw](https://pan.baidu.com/s/1RZsSZY5pY2GSAQEu5ciqAw)  
     	password: t76c
-3. Download the [HIER Food-71] dataset constructed by us, and put it into ./DataSet
+3. Download the HIER Food-71 dataset constructed by us, and put it into ./DataSet
     you can download dataset from pan.baidu.com
-        link:[]()
-        password:
+        link:[https://pan.baidu.com/s/1XYT_UzHfigjTssu8cxyQoQ](https://pan.baidu.com/s/1XYT_UzHfigjTssu8cxyQoQ)
+        password:yt8c
 4. Download the imagenet-vgg-f.mat, and put it into ./DataSet  
     you can download it from pan.baidu.com  
     	link: [https://pan.baidu.com/s/1jM9ZPXGLIykw4SLzk3_3Wg](https://pan.baidu.com/s/15maHx23TDMSqOSr2G9kd6A）  

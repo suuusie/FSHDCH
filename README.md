@@ -28,6 +28,6 @@ other: tools to evaluate the preformance of the method.
         password:yt8c
 4. Download the imagenet-vgg-f.mat, and put it into ./DataSet  
     you can download it from pan.baidu.com  
-    	link: [https://pan.baidu.com/s/1jM9ZPXGLIykw4SLzk3_3Wg](https://pan.baidu.com/s/15maHx23TDMSqOSr2G9kd6A）  
+    	link:[https://pan.baidu.com/s/1jM9ZPXGLIykw4SLzk3_3Wg](https://pan.baidu.com/s/15maHx23TDMSqOSr2G9kd6A）  
      	password: wmg4
 5. run demo_FSHDCH.py

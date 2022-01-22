@@ -26,8 +26,8 @@ other: tools to evaluate the preformance of the method.
     you can download dataset from pan.baidu.com
         link:[]()
         password:
-5. Download the imagenet-vgg-f.mat, and put it into ./DataSet  
+4. Download the imagenet-vgg-f.mat, and put it into ./DataSet  
     you can download it from pan.baidu.com  
     	link: [https://pan.baidu.com/s/1jM9ZPXGLIykw4SLzk3_3Wg](https://pan.baidu.com/s/15maHx23TDMSqOSr2G9kd6A）  
      	password: wmg4
-4. run demo_FSHDCH.py
+5. run demo_FSHDCH.py
